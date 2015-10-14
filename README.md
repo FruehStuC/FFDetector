@@ -1,7 +1,7 @@
 # FFDetector
 Einfaches FreiFunk Detector mit ESP8266 und lua
 
-Proof of concept project. 
+Proof of concept project. The WS2812 changes color when Freifunk is near. I'm underway with my bicycle a lot, and it's neat to see if there's Community WiFi when considering stopping for a coffee ;)
 
 I used the NodeMCU Firmware on an ESP8266-01 evaluation board.
 
